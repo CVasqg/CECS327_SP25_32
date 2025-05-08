@@ -10,11 +10,11 @@ Assignment 8 focuses on using 2 VMs that communicate with each other using a Cli
 
 * Once psycopg2 is installed, go to your terminal on your first VM and type this in to run the Server.py file.
 
- **python Server.py**
+   **python Server.py**
 
 * Then do the same for Client.py on your second VM
 
- **python Client.py**
+   **python Client.py**
 
 * Both files should be runnning and user should be able to view data on their devices.
 
